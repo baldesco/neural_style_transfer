@@ -5,4 +5,4 @@
 *.pptx
 
 # Imágenes generadas por el notebook
-salida
+salida/*.png
